@@ -1,48 +1,41 @@
 ---
 authors:
-- admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+- Mathias Flinta 
+bio: Economics student specializing in data science. Working at Centrica Energy Trading part time. Looking for internship in the fall 2020.  
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Master in Economics
+    institution: Aalborg University 
+    year: Current
+  - course: BSc in Economics
+    institution: Aalborg University 
+    year: 2019
+email: "flintax5@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Data science
+- Financial markets
+- Development economics
+name: Mathias Haahr Flinta 
 organizations:
-- name: Stanford University
+- name: Aalborg University 
   url: ""
-role: Professor of Artificial Intelligence
+role: Student of Economics
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/DataEconomistDK
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a student in economics with a big interest in the appliance of datascience to uncover new knowledge. I have several courses in math, statistics, econometrics, data science, machine learning, NLP.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Other than studying i also work part time at Centrica Energy Trading, assisting the traders as part of the power support team. In me freetime i enjoy sports such as climbing and volleyball, learning about personal development, leadership and financial markets. I also currently use a lot of my time creating events, courses and ect. in the scouts union KFUM spejderne. 
